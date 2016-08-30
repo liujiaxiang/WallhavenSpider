@@ -9,7 +9,6 @@ import java.net.URL;
 import java.net.URLConnection;  
 /** 
  * @说明 从网络获取图片到本地 
- * @author 崔素强 
  * @version 1.0 
  * @since 
  */  
